@@ -1,1 +1,1 @@
-# compile-python2
+# compile-python
